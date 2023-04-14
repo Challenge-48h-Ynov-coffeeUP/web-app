@@ -1,6 +1,7 @@
 # ☕ YCoffee
 
 Node.js / typescript / WebSocket server for Y-coffee
+feel free to dm MHD#0845 on discord if you have any questions / issues
 
 L'objectif de **_YCoffe_** est d'informer les étudiants du campus d'Ynov sur le statut de la machine à café via une application web et mobile, informant si la machine à café est opérationnelle ou non.
 
@@ -64,7 +65,6 @@ yarn start
 Pour lancer l'app en local
 Vous pourrez ensuite voir l'application [ici](http://localhost:3000)
 
-If the websocket server is hosted on a different port/ip, you can change it in the .env file
 Si le serveur WebSocket est exposé sur un port ou une ip différente, vous pouvez configurer cela dans le fichier `.env` a la racine du projet 
 
 exemple:
